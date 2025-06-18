@@ -1,0 +1,28 @@
+
+h2 {
+    font-size: 1.6rem;
+}
+body {
+    background-color: black;
+}
+html {
+    font-family: Garamond;
+}
+#p1 {
+    color:aquamarine;
+}
+#p2 {
+    color:aquamarine;
+}
+#p3 {
+    color:coral;
+}
+#p4 {
+    color:burlywood;
+}
+#ol1 {
+    color:blue;
+}
+#ul1 {
+    color:blueviolet;
+}
